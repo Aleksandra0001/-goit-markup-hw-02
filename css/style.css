@@ -94,7 +94,7 @@ button:hover, button:focus {
     color: #FFFFFF;
 }
 
-h3{
+.about-item-title{
     font-family: "Roboto", sans-serif;
     font-size: 20px;
     font-weight: 500;
@@ -102,7 +102,7 @@ h3{
     line-height: 1.2;
 }
 
-p{
+.about-item-description{
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
