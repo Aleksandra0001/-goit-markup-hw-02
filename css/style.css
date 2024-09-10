@@ -24,8 +24,20 @@ body{
     line-height: 1.5;
 }
 
+.nav-list li{
+    letter-spacing: 0.02em;
+}
+
+.nav-list a:hover, .nav-list a:focus{
+    color: #404bbf;
+}
+
 .nav-list a{
     color: #2E2F42;
+}
+
+.address{
+    font-style: normal;
 }
 
 .contact-list{
@@ -33,11 +45,16 @@ body{
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
 .contact-list a{
     color: #434455;
+}
+
+.contact-list a:hover, .contact-list a:focus{
+    color: #404bbf;
 }
 
 h1{
@@ -46,6 +63,8 @@ h1{
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 
 h2{
@@ -54,6 +73,9 @@ h2{
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
 }
 
 button{
@@ -64,10 +86,11 @@ button{
     background-color: #4D5AE5;
     color: #FFFFFF;
     cursor: pointer;
+    letter-spacing: 0.04em;
 }
 
-button:hover {
-    background-color: #3d4bb7;
+button:hover, button:focus {
+    background-color: #404BBF;
     color: #FFFFFF;
 }
 
@@ -85,6 +108,7 @@ p{
     font-weight: 400;
     color: #434455;
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 header{
@@ -93,6 +117,14 @@ header{
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
+}
+
+.our-team{
+    background-color: #F4F4FD;
+}
+
+.our-team li{
+    background-color: #FFFFFF;
 }
 
 .hero{
