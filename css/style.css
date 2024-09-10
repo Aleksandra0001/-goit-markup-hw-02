@@ -10,7 +10,7 @@ body{
     line-height: 1.17;
     text-transform: uppercase;
 }
-.logo .studio{
+.logo{
     color: #2E2F42;
     letter-spacing: 0.03em;
     line-height: 1.17;
@@ -40,7 +40,7 @@ body{
     font-style: normal;
 }
 
-.contact-list{
+.contact-link{
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -49,11 +49,7 @@ body{
     color: #434455;
 }
 
-.contact-list a{
-    color: #434455;
-}
-
-.contact-list a:hover, .contact-list a:focus{
+.contact-link:hover, .contact-link:focus{
     color: #404bbf;
 }
 
