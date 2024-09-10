@@ -187,9 +187,19 @@ footer .studio{
     text-transform: uppercase;
 }
 
+.logo-link-footer{
+    font-family: "Raleway",sans-serif;
+    color: #4D5AE5;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
 .logo-white{
     color: #F4F4FD;
     line-height: 1.5;
+    text-transform: uppercase;
 }
 
 .marketing-message{
@@ -197,4 +207,5 @@ footer .studio{
     font-weight: 400;
     font-size: 16px;
     letter-spacing: 0.02em;
+    line-height: 1.5;
 }
