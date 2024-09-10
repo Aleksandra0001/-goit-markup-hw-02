@@ -194,14 +194,13 @@ footer .studio{
     font-size: 18px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    line-height: 1.17
+    line-height: 1.17;
 }
 
 .logo-white{
     color: #F4F4FD;
     line-height: 1.5;
     text-transform: uppercase;
-    line-height: 1.17
 }
 
 .marketing-message{
@@ -209,5 +208,4 @@ footer .studio{
     font-weight: 400;
     font-size: 16px;
     letter-spacing: 0.02em;
-    line-height: 1.5;
 }
