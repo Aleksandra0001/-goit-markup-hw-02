@@ -109,7 +109,6 @@ button:hover, button:focus {
 header{
     background-color: #FFFFFF;
     border: 1px solid #E7E9FC;
-    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
 }
@@ -154,6 +153,10 @@ header{
     font-weight: 400;
     letter-spacing: 0.02em;
     line-height: 1.5;
+}
+
+ul {
+    list-style: none;
 }
 
 footer{
